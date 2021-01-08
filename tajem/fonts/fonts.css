@@ -1,0 +1,84 @@
+@font-face {
+    font-family: "Roboto_black";
+    src: 
+        url("ofontruRoboto.eot") format("eot"),
+        url("ofontruRoboto.otf") format("otf"),
+        url("ofontruRoboto.svg") format("svg"),
+        url("ofontruRoboto.ttf") format("ttf"),
+        url("ofontruRoboto.woff") format("woff"),
+        url("ofontruRoboto.woff2") format("woff2");
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: "roboto-thin";
+    src: 
+        url("roboto-thin.eot") format("eot"),
+        url("roboto-thin.otf") format("otf"),
+        url("roboto-thin.svg") format("svg"),
+        url("roboto-thin.ttf") format("ttf"),
+        url("roboto-thin.woff") format("woff"),
+        url("roboto-thin.woff2") format("woff2");
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: "HammersmithOne";
+    src: 
+        url("HammersmithOne.eot") format("eot"),
+        url("HammersmithOne.otf") format("otf"),
+        url("HammersmithOne.svg") format("svg"),
+        url("HammersmithOne.ttf") format("ttf"),
+        url("HammersmithOne.woff") format("woff"),
+        url("HammersmithOne.woff2") format("woff2");
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: "RobotoLight";
+    src: 
+        url("RobotoLight.eot") format("eot"),
+        url("RobotoLight.otf") format("otf"),
+        url("RobotoLight.svg") format("svg"),
+        url("RobotoLight.ttf") format("ttf"),
+        url("RobotoLight.woff") format("woff"),
+        url("RobotoLight.woff2") format("woff2");
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: "PlayFairBold";
+    src: 
+        url("PlayFairBold.eot") format("eot"),
+        url("PlayFairBold.otf") format("otf"),
+        url("PlayFairBold.svg") format("svg"),
+        url("PlayFairBold.ttf") format("ttf"),
+        url("PlayFairBold.woff") format("woff"),
+        url("PlayFairBold.woff2") format("woff2");
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: "PlayfairDisplay-Regular";
+    src: 
+        url("PlayfairDisplay-Regular.eot") format("eot"),
+        url("PlayfairDisplay-Regular.otf") format("otf"),
+        url("PlayfairDisplay-Regular.svg") format("svg"),
+        url("PlayfairDisplay-Regular.ttf") format("ttf"),
+        url("PlayfairDisplay-Regular.woff") format("woff"),
+        url("PlayfairDisplay-Regular.woff2") format("woff2");
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: "ico";
+    src: 
+        url("ico.eot") format("eot"),
+        url("ico.otf") format("otf"),
+        url("ico.svg") format("svg"),
+        url("ico.ttf") format("ttf"),
+        url("ico.woff") format("woff"),
+        url("ico.woff2") format("woff2");
+    font-weight: bold;
+    font-style: normal;
+}
